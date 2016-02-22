@@ -8,5 +8,5 @@ class ofApp : public ofBaseApp{
 		void update();
 		void draw();
 	
-		ofVideoPlayer * videoPlayer;
+		ofVideoPlayer videoPlayer;
 };
